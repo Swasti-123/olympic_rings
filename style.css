@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(pink 33%,violet 66%, skyblue 100%);
+}
+
+#canvas{
+    background: white;
+    border:lightyellow ridge 10px;
+}
